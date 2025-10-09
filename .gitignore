@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.idea
+/data
+/clean_images
+/unsplash_images
+/report
+/results
+*.ipynb
